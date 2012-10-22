@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<JSymphonicSetting>
+<WindowSettings>
+<Position PositionX="100" PositionY="100"/>
+<Size Height="480" Width="640"/>
+</WindowSettings>
+<GuiSettings Language="English (default)" Theme="Metal"/>
+<Logging Level="ALL" LogToFile="false"/>
+<Transfer AlwaysTranscode="false" Bitrate="128" ReadID3Tags="true" readTagFolderStructure="&lt;Artist&gt;/&lt;Album&gt;/&lt;Title&gt;"/>
+<Profiles Selected="Default">
+<Profile DeviceGeneration="7" DevicePath="/Volumes/S703F" ExPathIsSameAsLPath="false" ExportPath="/Users/xiaoli/Documents/My Music" LocalPath="/Users/xiaoli/Documents/My Music" Name="Default" TTPathIsSameAsDPath="false" TranscodeTempPath="/Users/xiaoli"/>
+</Profiles>
+</JSymphonicSetting>
